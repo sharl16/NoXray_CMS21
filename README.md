@@ -2,3 +2,5 @@
 
 - Toggle Xray on/off by pressing 'H' (See "Detailed description" for more)
 -Requires MelonLoader (Tested with version 0.5.7, but should work with other version
+
+- Abide to the license.
