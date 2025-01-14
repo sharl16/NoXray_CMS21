@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nick\\Documents\\GitHub\\CMS21_Mod\\CMS21_Mod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB710F02-955B-40C0-96AF-FEF4FB118E44}|CMS21_Mod\\NoXray.csproj|c:\\users\\nick\\documents\\github\\cms21_mod\\cms21_mod\\cms21_mod\\noxray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB710F02-955B-40C0-96AF-FEF4FB118E44}|CMS21_Mod\\NoXray.csproj|solutionrelative:cms21_mod\\noxray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB710F02-955B-40C0-96AF-FEF4FB118E44}|CMS21_Mod\\NoXray.csproj|c:\\users\\nick\\documents\\github\\cms21_mod\\cms21_mod\\cms21_mod\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB710F02-955B-40C0-96AF-FEF4FB118E44}|CMS21_Mod\\NoXray.csproj|solutionrelative:cms21_mod\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Nick\\Documents\\GitHub\\CMS21_Mod\\CMS21_Mod\\CMS21_Mod\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "CMS21_Mod\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Nick\\Documents\\GitHub\\CMS21_Mod\\CMS21_Mod\\CMS21_Mod\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "CMS21_Mod\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T20:57:45.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NoXray.cs",
+              "DocumentMoniker": "C:\\Users\\Nick\\Documents\\GitHub\\CMS21_Mod\\CMS21_Mod\\CMS21_Mod\\NoXray.cs",
+              "RelativeDocumentMoniker": "CMS21_Mod\\NoXray.cs",
+              "ToolTip": "C:\\Users\\Nick\\Documents\\GitHub\\CMS21_Mod\\CMS21_Mod\\CMS21_Mod\\NoXray.cs",
+              "RelativeToolTip": "CMS21_Mod\\NoXray.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T13:38:49.499Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
