@@ -5,7 +5,7 @@ using System.Runtime.InteropServices.ComTypes;
 using MelonLoader;
 using CMS21_Mod; // The namespace of your mod class
 // ...
-[assembly: MelonInfo(typeof(NoXray), "NoXray", "1.0.1", "sharl16")]
+[assembly: MelonInfo(typeof(NoXray), "NoXray", "1.1.0", "sharl16")]
 [assembly: MelonGame("Red Dot Games", "Car Mechanic Simulator 2021")]
 
 // General Information about an assembly is controlled through the following
@@ -35,5 +35,5 @@ using CMS21_Mod; // The namespace of your mod class
 //      Build Number
 //      Revision
 //
-[assembly: AssemblyVersion("1.0.0.0")]
-[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyVersion("1.0")]
+[assembly: AssemblyFileVersion("1.1")]
