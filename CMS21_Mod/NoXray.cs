@@ -12,8 +12,6 @@ namespace CMS21_Mod
         private static bool state = true;
         private static CarLoader[] carLoaders;
 
-        private config = 
-
         public void CheckForUpdates()
         {
 
