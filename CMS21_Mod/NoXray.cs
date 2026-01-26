@@ -12,16 +12,6 @@ namespace CMS21_Mod
         private static bool state = true;
         private static CarLoader[] carLoaders;
 
-        public void CheckForUpdates()
-        {
-
-        }
-
-        public override void OnApplicationStart()
-        {
-            
-        }
-
         public override void OnSceneWasInitialized(int buildIndex, string sceneName)
         {
             base.OnSceneWasLoaded(buildIndex, sceneName);
@@ -62,7 +52,7 @@ namespace CMS21_Mod
         {
             public static bool Prefix(ref bool show, ref float XRayAlpha)
             {
-                show = state;
+                show = state; 
                 MelonLogger.Msg("Patched ShowHideBody, force to: " + show);
                 return true;
             }
